@@ -1,2 +1,2 @@
 # Object Collection Docs
-Docs form Object Collection :rockect: 
+Docs form Object Collection :rocket: 
